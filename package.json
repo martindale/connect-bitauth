@@ -1,0 +1,18 @@
+{
+  "name": "connect-bitauth",
+  "version": "0.1.0",
+  "description": "Use BitAuth in connect / expressJS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "dependencies": {
+    "bitauth": "~0.1.1"
+  },
+  "devDependencies": {
+    "should": "~4.0.4",
+    "mocha": "~1.20.1"
+  }
+}
